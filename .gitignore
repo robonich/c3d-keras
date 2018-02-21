@@ -1,0 +1,4 @@
+caffe.proto
+models/conv3d_deepnetA_sport1m_iter_1900000
+models/train01_16_128_171_mean.npy
+sports1m/labels.txt
